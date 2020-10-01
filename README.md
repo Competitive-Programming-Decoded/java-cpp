@@ -4,8 +4,6 @@
 
 - [AlgorithmsAndDataStructure](#algorithmsanddatastructure)
   - [Introduction](#introduction)
-  - [Data Structure](#data-structure)
-  - [Algorithms](#algorithms)
   - [Maintainers](#maintainers)
 
 ## Introduction
