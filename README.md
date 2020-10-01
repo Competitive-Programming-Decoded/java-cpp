@@ -17,15 +17,10 @@ Data structures & Algorithms are an essential part of programming. It comes unde
 
 
 
-## Data Structure
+## Question
 
-In computer science, a data structure is a data organization, management, and storage format that enables efficient access and modification.
+This repository is comprises of Topic-wise questions with their explanation in JAVA and CPP.
 
-## Algorithms
-
-An algorithm is a set of instructions that are used to accomplish a task, such as finding the largest number in a list, removing all the red cards from a deck of playing cards, sorting a collection of names, figuring out an average movie rating from just your friend's opinion
-
-Algorithms are not limited to computers. They are like a set of step-by-step instructions or an even a recipe, containing things you need, steps to do, the order to do them, conditions to look for, and expected results.
 
 ## Languages 
 - C++
@@ -34,43 +29,13 @@ Algorithms are not limited to computers. They are like a set of step-by-step ins
 
 ## Project Progress
 
-### Data Structures
-| Data Structure 	| C++            	| JAVA            	|
+### Questions
+| Questions     	| C++            	| JAVA            	|
 |----------------	|----------------	|-----------------	|
 | Linked List    	| No             	| No              	| 
 | Sets           	| No             	| No              	|
 | Stack          	| No             	| In progress     	| 
-| Queue          	| In progress   	| In progress     	| 
-
-
-### Algorithms
-| Algorithm                      	| C++             	| JAVA             	|
-|--------------------------------	|-----------------	|-----------------	|
-| **Searching**                   |                 	|                 	|               
-| Binary Search                  	| No              	| In progress #9  	|                	
-| Selection Sort                 	| In progress #29 	| In progress #30 	|                	
-| Bubble Sort                    	| Yes             	| Yes             	|                	
-| Insertion Sort                 	| In progress #2  	| Yes             	|                	
-| Merge Sort                     	| In progress #3  	| Yes             	|                	
-| Quick Sort                     	| In progress #4  	| Yes             	|                	
-| Heap Sort                      	| In progress #5  	| In progress #6  	|                	
-|                                	|                 	|                 	|                	
-| **Recursion**                   |                 	|                 	|                	
-| Fibonacci Numbers              	| No              	| No              	|                	
-|                               	| No              	| No               	|                	
-| **Sieve**                       |                 	|                 	|                	
-| Sieve of Erosothenes           	| No              	| No              	|                	
-|                                	|                 	|                 	|                	
-| **Dynamic Programming**         |                 	|                 	|                	
-| Knapsack Problem               	| No              	| No               	|                	
-| Longest Common Subsequence     	| No              	| No               	|             	
-|                                	|                 	|                 	|           
-| **Backtracking**                |                 	|                 	|                	
-| Suduko Solver                  	| In progress     	| No              	|                	
-| The Knight's Tour              	| In progress     	| In progress     	|                	
-| Subset Sum                     	| In progress     	| In progress     	|                	
-|                                	|                 	|                 	|  
-
+| Queue          	| In progress   	| In progress     	|
 
 
 
