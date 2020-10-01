@@ -1,4 +1,4 @@
-# java-cpp
+
 
 # [JAVA-CPP]
 
@@ -6,8 +6,6 @@
   - [Introduction](#introduction)
   - [Data Structure](#data-structure)
   - [Algorithms](#algorithms)
-  - [Authors and acknowledgment](#authors-and-acknowledgment)
-  - [License](#license)
   - [Maintainers](#maintainers)
 
 ## Introduction
@@ -16,7 +14,7 @@ Data structures & Algorithms are an essential part of programming. It comes unde
 
 :star2: Star it 
 :fork_and_knife:Fork it
-:handshake: Contribute to it!
+
 
 
 ## Data Structure
@@ -76,9 +74,6 @@ Algorithms are not limited to computers. They are like a set of step-by-step ins
 
 
 
-## [License](/LICENSE)
-
-For open-source projects, Under [MIT License](/LICENSE).
 
 ## Maintainers
 
