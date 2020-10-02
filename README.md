@@ -1,6 +1,6 @@
 
 
-# [JAVA-CPP]
+# [JAVA && CPP-(Competitive Programming)]
 
 - [AlgorithmsAndDataStructure](#algorithmsanddatastructure)
   - [Introduction](#introduction)
@@ -8,7 +8,7 @@
 
 ## Introduction
 
-Data structures & Algorithms are an essential part of programming. It comes under the fundamentals of computer science. It gives us the advantage of writing better and efficient code in less time. It is a key topic when it comes to Software Engineering interview questions so as developers, we must have knowledge of Data Structure and Algorithms
+Data structures & Algorithms are an essential part of programming. It comes under the fundamentals of computer science. It gives us the advantage of writing better and efficient code in less time. It is a key topic when it comes to Software Engineering interview questions so as developers, we must have knowledge of Data Structure and Algorithms.We must be well versed with the probable questions that can be asked during a software engineering interviewand also for getting our hands on experience on CP problems and solving them.
 
 :star2: Star it 
 :fork_and_knife:Fork it
@@ -17,7 +17,7 @@ Data structures & Algorithms are an essential part of programming. It comes unde
 
 ## Question
 
-This repository is comprises of Topic-wise questions with their explanation in JAVA and CPP.
+This repository comprises of Topic-wise questions with their explanation in JAVA and CPP.
 
 
 ## Languages 
@@ -30,11 +30,13 @@ This repository is comprises of Topic-wise questions with their explanation in J
 ### Questions
 | Questions     	| C++            	| JAVA            	|
 |----------------	|----------------	|-----------------	|
-| Linked List    	| No             	| No              	| 
+|Arrays           | In progress     | No                |
+|Linked List    	| In progress     | No              	| 
 | Sets           	| No             	| No              	|
 | Stack          	| No             	| In progress     	| 
-| Queue          	| In progress   	| In progress     	|
-
+| Queue           | No              | No                |   
+| Trees	          | No    	        | No                |      
+|Graph Theory     | No              | No                |
 
 
 
